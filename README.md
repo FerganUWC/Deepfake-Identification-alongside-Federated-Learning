@@ -1,0 +1,2 @@
+# Deepfake-Identification-alongside-Federated-Learning
+This project presents Deepfake identification using machine learning techniques to detect synthetic images. Machine learning plays a significant role in assisting with complicated and convoluted problems that breaches human ability. The precision and consistency with which technology can reliably and easily discern the integrity of digitalized visual media is thus critical. 
